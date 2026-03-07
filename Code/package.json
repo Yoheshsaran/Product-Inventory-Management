@@ -1,5 +1,5 @@
 {
-  "name": "nm-backend-project",
+  "name": "Product-Inventory-Management",
   "version": "1.0.0",
   "main": "sever.js",
   "scripts": {
